@@ -1,2 +1,2 @@
-# Linear-Regression-w-Cross-Validation
-Linear Regression project on automobile data featuring checks using k-fold cross validation.
+# Linear-Regression-Using-Sklearn-in-Python
+Linear Regression project on automobile data featuring checks using k-fold cross validation using Sklearn on a Juypter Notebook.
